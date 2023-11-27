@@ -1,0 +1,23 @@
+.reader-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+.cart-container p{
+    background-color: #EEEDFC;
+    color: #6047EC;
+    padding: 10px;
+    border: 1px solid #6047EC;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.cart-container h3{
+    background-color: #F3F3F3;
+    padding: 10px;
+    border-radius: 5px;
+    color: #111;
+    font-size: 15px;
+
+}

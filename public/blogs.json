@@ -1,0 +1,38 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "Mr. Raju",
+        "date":"Mar 14 (4 Days ago)",
+        "readTime":"05 min read",
+        "title":"How to get your first job as a self-taught programmer",
+        "img": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        
+    },
+    {
+        "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+        "name": "Mina Mostofa",
+        "date":"Mar 14 (4 Days ago)",
+        "readTime":"10 min read",
+        "title":"How to get your first job as a self-taught programmer",
+        "img": "https://media.istockphoto.com/id/1347880105/photo/shot-of-a-young-woman-using-a-digital-tablet-while-working-in-a-server-room.jpg?s=2048x2048&w=is&k=20&c=KKAbes4dmy6i6sNAPbZcgREpxywiAXWD26sY7kuCe1s="
+        
+    },
+    {
+        "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+        "name": "Mrs. Setara",
+        "date":"Mar 14 (4 Days ago)",
+        "readTime":"15 min read",
+        "title":"How to get your first job as a self-taught programmer",
+        "img": "https://media.istockphoto.com/id/932559358/photo/silhouette-of-virtual-human-on-circuit-pattern-technology-3d-illustration.jpg?s=2048x2048&w=is&k=20&c=g9Rx10nb1ry5nLiQPzQylx4dKBCkkHGeYIfKck4ojWk="
+        
+    },
+    {
+        "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+        "name": "Mr.Rubel",
+        "date":"Mar 14 (4 Days ago)",
+        "readTime":"20 min read",
+        "title":"How to get your first job as a self-taught programmer",
+        "img": "https://media.istockphoto.com/id/1431385377/photo/digital-low-code-software-development-technology-concept-digital-background-concept.jpg?s=2048x2048&w=is&k=20&c=lfUASvECHWrYr6xj2vgfFfYJmnJiMc29JAeZiS-vWrY="
+        
+    }
+]
